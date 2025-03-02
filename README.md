@@ -13,7 +13,7 @@ Don't alter, edit or reuse content without permission. Can be fully distributed 
 
 ### Download
 
-Lade die Anwendung hier herunter: [Batterie Status Minianwendung.gadget](Batterie%20Status%20Minianwendung.gadget)
+Lade die Anwendung hier herunter: [Batterie Status Minianwendung.gadget](https://github.com/andreasreinelt/Batterie-Status-Minianwendung/releases/tag/v2.2.0)
 
 
 ## English
@@ -29,7 +29,7 @@ Don't alter, edit or reuse content without permission. Can be fully distributed 
 
 ### Download
 
-Download the application here: [Batterie Status Minianwendung.gadget](Batterie%20Status%20Minianwendung.gadget)
+Download the application here: [Batterie Status Minianwendung.gadget](https://github.com/andreasreinelt/Batterie-Status-Minianwendung/releases/tag/v2.2.0)
 
 ## Einstellungen / Settings
 
