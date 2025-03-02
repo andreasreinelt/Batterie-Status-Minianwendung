@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+
+Made by Andreas Reinelt - 2010/12
+reineltandreas@icloud.com
+
+Ohne Erlaubnis nicht bearbeiten, verändern oder Inhalte weiterverwenden. Darf in der Originalversion uneingeschränkt weitergegeben werden.
+Don't alter, edit or reuse content without permission. Can be fully distributed in the original version.
+
+-->
+<gadget>
+  <name>Batterie Status</name>
+  <namespace>Andreas Reinelt</namespace>
+  <version>2.2.0</version>
+  <author name="Andreas Reinelt">
+	<logo src="Preview.png" />
+  </author>
+  <copyright>2010/12</copyright>
+  <description>Shows how full (or empty) your notebook battery is.</description>
+  <icons>
+    <icon height="64" width="37" src="Preview.png"/>
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="gadget.html" />
+      <permissions>full</permissions>
+      <platform minPlatformVersion="1.0" />
+      <defaultImage src="Drop.png" />
+    </host>
+  </hosts>
+</gadget>

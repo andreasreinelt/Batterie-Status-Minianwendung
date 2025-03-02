@@ -1,0 +1,58 @@
+body {
+	width: 130px;
+	height: 70px;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+#bar {
+	position:absolute;
+	left: 9px; top: 9px;
+	margin: 0px;
+	width: 0px;
+	height: 53px;
+	background-color: #009900;
+}
+
+#backbar {
+	position:absolute;
+	left: 9px; top: 9px;
+	margin: 0px;
+	width: 100px;
+	height: 53px;
+	background-color: #fff;
+}
+
+#percent, #shadow {
+	position:absolute;
+	width: 130px;
+	text-align: center;
+	font-weight:lighter;
+}
+	
+#percent {
+	margin: 0px;
+	font-size: 32px;
+	color: #fff;
+}
+
+#shadow {
+	margin: 2px;
+	font-size: 32px;
+	color: #000;
+}
+
+.TimesNewRoman {
+	font-family: Times New Roman;
+	top: 17px; left: -6px;
+}
+.SegoeUI {
+	font-family: Segoe UI, Times New Roman;
+	top: 11px; left: -6px;
+}
+.Tahoma {
+	font-family: Tahoma, Times New Roman;
+	top: 15px; left: -6px;
+}
